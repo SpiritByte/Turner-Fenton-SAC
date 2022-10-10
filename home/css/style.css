@@ -483,7 +483,6 @@ label {
 }
 .author-image-large img {
   height: calc(100vh - 4px);
-  width: 80%;
 }
 
 /*------------------------------------------------
